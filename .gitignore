@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+/var
+/vendor
+
+#excludes
+/public/index.php
+/public/typo3/*
+/public/typo3temp/*
